@@ -33,4 +33,4 @@ Requerimientos de software:
  - Arduino.h                libreria para funciones de soporte de arduino IDE
  - addons/RTDBHelper.h      libreria para funciones de comunicación de firebase
  
- para más información solicite la [wiki](goto wiki/home)
+ para más información solicite la [wiki]
