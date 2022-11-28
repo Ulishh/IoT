@@ -5,9 +5,11 @@ El reto consiste en el prototipado de un alcoholimetro digital con el fin la cre
 de multado en vias públicas.
 
 Los integrantes del equipo son:
+
 Eleazar Olivas Gaspar a01731405@tec.mx | Ulises Hernadez Hernadez a01735823@tec.mx
 
 Profesores de la materia:
+
 Emmanuel Torres Rios etorresr@tec.mx | Alba Adriana Romero Garcia aromerog@tec.mx
 
 Requerimientos de hardware:
