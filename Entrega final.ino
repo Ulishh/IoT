@@ -17,12 +17,12 @@
 #define DHTTYPE DHT11   // DHT 11
 
 const char* ssid = "Tec";
-#define EAP_IDENTITY "a01735823@tec.mx"
-#define EAP_PASSWORD "#Lunabb2020"
+#define EAP_IDENTITY "____USER____"
+#define EAP_PASSWORD "___PASWORD___"
 
 // Firebase insert auth
-#define USER_EMAIL "a01735823@tec.mx"
-#define USER_PASSWORD "#Lunabb2020"
+#define USER_EMAIL "____USER____"
+#define USER_PASSWORD "___PASWORD___"
 
 
 
