@@ -32,3 +32,5 @@ Requerimientos de software:
  - addons/TokenHelper.h     libreria para generacion de token de firebase
  - Arduino.h                libreria para funciones de soporte de arduino IDE
  - addons/RTDBHelper.h      libreria para funciones de comunicación de firebase
+ 
+ para más información solicite la [wiki](goto wiki/home)
