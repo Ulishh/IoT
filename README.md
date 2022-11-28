@@ -5,12 +5,12 @@ El reto consiste en el prototipado de un alcoholimetro digital con el fin la cre
 de multado en vias públicas.
 
 Los integrantes del equipo son:
-Eleazar Olivas Gaspar | A01731405@tec.mx
-Ulises Hernadez Hernadez | A01735823@tec.mx
+ -Eleazar Olivas Gaspar | A01731405@tec.mx
+ -Ulises Hernadez Hernadez | A01735823@tec.mx
 
 Profesores de la materia:
-Emmanuel Torres Rios | etorresr@tec.mx
-Alba Adriana Romero Garcia | aromerog@tec.mx
+ -Emmanuel Torres Rios | etorresr@tec.mx
+ -Alba Adriana Romero Garcia | aromerog@tec.mx
 
 Requerimientos de hardware:
  - Esp32        Wroom driver de Wi-fi.
